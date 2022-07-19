@@ -1,0 +1,34 @@
+{
+
+    "products" : [
+        {
+
+        "name" : "iphone",
+
+        "price" :"$3000",
+
+        "id" :1
+
+    },
+
+    {
+        "name" : "android",
+
+        "price" :"$4000",
+
+        "id" :2
+    },
+
+    {
+
+       "name" : "ios",
+       
+       "price" : "$1000",
+
+       "id" :3
+
+    }
+    
+    ]
+
+}
